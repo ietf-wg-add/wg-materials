@@ -13,4 +13,4 @@ This repository supplements the working group materials maintained in the IETF D
 
 ## How to Use GitHub for ADD documents
 
-Please read [Using Github.md](https://github.com/ietf-wg-add/wg-materials/edit/master/Using%20Github.md) for an introduction to using GitHub to develop IETF drafts.
+Please read [Using Github.md](https://github.com/ietf-wg-add/wg-materials/master/Using%20Github.md) for an introduction to using GitHub to develop IETF drafts.
