@@ -148,7 +148,7 @@ Best practice for issues is to make them short and limited to one specific item.
 
 >    Section 4.1 of the document doesn’t mention root name servers. Please add material on how root name servers are affected.
 
- #### 2.
+#### 2. Provides a specific suggestion to the document authors.
 
 > A diagram in section 5 showing the interaction of the stub resolver and the recursive resolver would be helpful in the understanding the interaction.
 
