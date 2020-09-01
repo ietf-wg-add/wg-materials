@@ -144,7 +144,7 @@ Best practice for issues is to make them short and limited to one specific item.
 #### Examples of well written issue submissions:
 
 
-##### 1. Focuses on single item; Provides suggested resolution action.
+#### 1. Focuses on single item; Provides suggested resolution action.
 
 >    Section 4.1 of the document doesn’t mention root name servers. Please add material on how root name servers are affected.
 
@@ -182,7 +182,7 @@ Improve by:   Get specific as much as possible. Include the WG name, perhaps a l
 
 >The document should consider the impact of adding an additional field to the response text. It also should elaborate on split DNS impacts, and section 2 line 3 should say MUST.   
 
-Improve by:  Submit each item as separate ISSUE.
+Improve by:  Submit each item as separate issue.
 
 
 #### Commenting on Issues
