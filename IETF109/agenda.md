@@ -26,7 +26,7 @@ Time in different zones:
 * IST: 12:00-14:00 (UTC+7)
 * UTC: 05:00-07:00 (UTC+0)
 * EST: 00:00-02:00 (UTC-5)  *Note: This is Midnight Thursday November 19 in EST*
-* PST: 09:00-11:00 (UTC-8)  *Note: This is Thuraday November 19 in PST*
+* PST: 09:00-11:00 (UTC-8)  *Note: This is Thursday November 19 in PST*
 
 
 
