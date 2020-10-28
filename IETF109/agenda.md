@@ -16,14 +16,18 @@ ADD has 2 sessions during IETF109:  Session 1 is Monday November 16; Session 2 i
 
 ### Session 1: Monday, November 16 2020 (UTC+7)
 Time in different zones:
-* IST: 14:30-15:30 (UTC+7)
+* ICT: 14:30-15:30 (UTC+7) IETF Agenda TZ and Bangkok meeting "location" time
+* IST: 13:00-14:00 (UTC+5.5)
+* CET: 08:30-09:30 (UTC+1)
 * UTC: 07:30-08:30 (UTC+0)
 * EST: 02:30-03:30 (UTC-5)
 * PST: 11:30-00:30 (UTC-8)  *Note: This is Sunday November 15 in PST*
 
 ### Session 2: Friday, November 20, 2020 (UTC+7)
 Time in different zones:
-* IST: 12:00-14:00 (UTC+7)
+* ICT: 12:00-14:00 (UTC+7) IETF Agenda TZ and Bangkok meeting "location" time
+* IST: 10:30-12:30 (UTC+5.5)
+* CET: 06:00-08:00 (UTC+1) 
 * UTC: 05:00-07:00 (UTC+0)
 * EST: 00:00-02:00 (UTC-5)  *Note: This is Midnight Thursday November 19 in EST*
 * PST: 09:00-11:00 (UTC-8)  *Note: This is Thursday November 19 in PST*
