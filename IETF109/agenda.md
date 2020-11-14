@@ -44,13 +44,23 @@ Time in different zones:
 * [NOTE WELL](https://www.ietf.org/about/note-well.html)
 * Agenda bashing
 
+### Drafts
+[draft-pauly-add-deer-00](https://datatracker.ietf.org/doc/draft-pauly-add-deer/) 15 min
+
+### Discussions
+* Discuss Concept of Equivalent Resolvers found in [Draft-pauly-add-deer-00](https://datatracker.ietf.org/doc/draft-pauly-add-deer/) and [draft-box-add-requirements-01](https://datatracker.ietf.org/doc/draft-box-add-requirements)
+
+### Planning & Wrap up
+
+* 5 min - Quick discussion about session #2 on Friday
+
 
 ### Discussions
 * *Order May Change*
 
 ### Planning & Wrap up
 
-* 5 min - Future meetings, etc.
+* 5 min - Discuss Session #2 which is on Friday
 
 
 ### As Time Permits
@@ -68,11 +78,11 @@ Time in different zones:
 
 
 ### Discussions
-* *Order May Change*
+* * Will depend on session #1 results
 
 ### Planning & Wrap up
 
 * 5 min - Future meetings, etc.
 
-
 ### As Time Permits
+
