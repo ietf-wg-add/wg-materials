@@ -37,14 +37,6 @@
 * 5 min - Quick discussion about IETF110
 
 
-### Discussions
-* *Order May Change*
-
-### Planning & Wrap up
-
-* 5 min - Discuss Session #2 which is on Friday
-
-
 
 
 
