@@ -6,8 +6,9 @@
 
 
 ## Session link, minutes, jabber 
-* [Meetecho](https://meetings.conf.meetecho.com/ietf109/?group=add) remote participation
-* [Minutes](https://codimd.ietf.org/notes-ietf-109-add)
+* [Meeting Info](https://datatracker.ietf.org/meeting/interim-2021-add-01/session/add)
+* [Webex info](https://ietf.webex.com/webappng/sites/ietf/meeting/download/4393d891ccf04a14a0be757d926eb8ea?siteurl=ietf&MTID=mf551d0af93cc8c57dab825f7dba81717) 
+* [Minutes](https://codimd.ietf.org/notes-ietf-interim-2021-add-01-add)
 * [Meeting chat](xmpp:add@jabber.ietf.org?join) 
 
 
