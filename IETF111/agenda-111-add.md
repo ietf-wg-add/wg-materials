@@ -62,9 +62,10 @@ ___
 ### 6. Private IPs, DDR, and PR#11  
 
 * Slides: See [PR11 ADD DNS and Forwarders](https://datatracker.ietf.org/meeting/111/materials/slides-111-add-ddr-and-forwarders-aka-pr-11-00) slides by Ben Schwartz & Tommy Jensen
-* 5 minutes + 15 minutes discussion as needed.
-[See ADD list Thread](https://mailarchive.ietf.org/arch/msg/add/NYik5dhJyTS7QeTJxVQACyCWOWo/) for background discussion
-* Question posed by EKR for discussion:
+* DDR Pull Request [PR11](https://github.com/ietf-wg-add/draft-ietf-add-ddr/pull/11)
+* See [ADD list Thread](https://mailarchive.ietf.org/arch/msg/add/NYik5dhJyTS7QeTJxVQACyCWOWo/) for background discussion
+* 10 minutes + 15 minutes discussion
+#### Question posed by EKR for discussion:
 
 > The general assumption for the DDR threat model so far is that:
 >
