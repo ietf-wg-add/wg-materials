@@ -8,7 +8,7 @@
 * [ADD Documents, Drafts and I-Ds](https://datatracker.ietf.org/group/add/documents/)
 
 ## ADD Chairs & Area Director
-* AD:  Eric Vynke
+* AD:  Eric Vyncke
 * Chairs: Glenn Deen, David Lawrence
 
 ## Session link, minutes, jabber
