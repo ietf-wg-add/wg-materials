@@ -25,13 +25,15 @@
 #
 ## Agenda
 
+
 ### Administrivia
 
-* Agenda Updates, etc,  10 min
+* Administrivia (agenda bashing, scribes) - 5 minutes
 * NOTE WELL : https://www.ietf.org/about/note-well.html
 
 ### Current Working Group Business
 
+* draft-ietf-dprive-unilateral-probing - 20 minutes
 
 ### New Working Group Business
 
